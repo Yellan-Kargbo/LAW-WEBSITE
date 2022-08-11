@@ -1,0 +1,79 @@
+.section-class {
+  display: flex;
+  background-color: #1c282f;
+  color: white;
+  padding: 2px 60px;
+}
+
+.navs-item {
+  list-style: none;
+  display: flex;
+}
+
+.navigations-items {
+  margin: 10px;
+}
+
+/* body {
+  margin: 0px;
+  padding: 0px;
+} */
+
+.colum-1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 60px;
+  background-color: #223139;
+  color: white;
+  align-items: center;
+}
+
+.navigations {
+  display: flex;
+  list-style: none;
+ 
+}
+
+.nav-icons{
+  margin: 10px;
+  font-size: 14px;
+}
+
+.contact-button {
+  padding: 12px 18px;
+  background-color: #f0926e;
+  color: white;
+
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+
+.text-colum {
+  padding: 180px 155px;
+}
+
+.COLUM-2 {
+  background-image: url(/pexel.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  
+}
+
+.touch-button {
+  padding: 13px 28px;
+  background-color: #ef916d;
+  color: white;
+}
+
+.law-text {
+  color: red;
+}
+
+.deeper-text {
+  font-family: 'Poppins', sans-serif;
+}
